@@ -1,5 +1,5 @@
 import React from 'react'
-import {AvailableCourse, Banner, SelectedCourse, Testimonials, WhatWeGive} from '../../components'
+import {AvailableCourse, Banner, SelectedCourse, Testimonials, WhatWeGive, FeaturedProducts} from '../../components'
 
 const Course = () => {
   return (
@@ -9,6 +9,7 @@ const Course = () => {
         <SelectedCourse />
         <AvailableCourse />
         <Testimonials />
+        <FeaturedProducts/>
     </div>
   )
 }

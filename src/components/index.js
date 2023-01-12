@@ -13,7 +13,7 @@ import WhatWeHave from "./HomePage/WhatWeHave"
 import Education from "./HomePage/Education"
 import Packages from "./HomePage/Packages"
 import Client from "./HomePage/Client"
-import FeaturedProducts from "./HomePage/FeaturedProducts"
+import FeaturedProducts from "./Course/FeaturedProducts"
 
 export {
     Navbar,
@@ -27,5 +27,5 @@ export {
     Education,
     Packages,
     Client,
-    FeaturedProducts
+    FeaturedProducts,
 }

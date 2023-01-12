@@ -14,16 +14,16 @@ const SelectedCourse = () => {
       <div className='selected__desc'></div>
       <div className='selected__testi'>
         <div className='selected__testi-item'>
-          <div className='testi__item-title'>2,000</div>
-          <div className='testi__item-desc'>People Views</div>
+          <div className='testi__item-title'>20,000</div>
+          <div className='testi__item-desc'>Người xem</div>
         </div>
         <div className='selected__testi-item'>
-          <div className='testi__item-title'>1,500+</div>
-          <div className='testi__item-desc'>Users</div>
+          <div className='testi__item-title'>500+</div>
+          <div className='testi__item-desc'>Học viên</div>
         </div>
         <div className='selected__testi-item'>
-          <div className='testi__item-title'>30</div>
-          <div className='testi__item-desc'>Courses</div>
+          <div className='testi__item-title'>4</div>
+          <div className='testi__item-desc'>Khóa học</div>
         </div>
       </div>
     </div>

@@ -6,7 +6,7 @@ const WhatWeGive = () => {
   return (
     <div className='app__whatwegive'>
         <div className='app__whatwegive__content'>
-            <div className='banner__subtitle'>Thông tin bên lề</div>
+            <div className='banner__subtitle'>Về chúng tôi</div>
             <div className='whatwegive__title'>Rất nhiều học viên và phụ huynh tin tưởng và chọn lựa trung tâm</div>
             <div className='whatwegive__desc'></div>
         </div>
@@ -24,7 +24,7 @@ const WhatWeGive = () => {
             <div className='whatwegive__item'>
                 <div className='whatwegive__item-icon'><FaBook /></div>
                 <div className='whatwegive__item-title'>30+</div>
-                <div className='whatwegive__item-desc'>Khóa học.</div>
+                <div className='whatwegive__item-desc'>Lớp học đang được tổ chức.</div>
             </div>
         </div>
     </div>
