@@ -3,11 +3,16 @@ import whatwehave from '../assets/whatwehave.png';
 import hero from '../assets/hero.png';
 import education from '../assets/education.png';
 import course from '../assets/course.jpg'
-
+import childCourse from '../assets/child.jpg'
+import course2 from '../assets/course2.png'
+import ielts from '../assets/ielts.jpg'
 export default {
     banner,
     whatwehave,
     hero,
     education,
-    course
+    course,
+    childCourse,
+    course2,
+    ielts
 }

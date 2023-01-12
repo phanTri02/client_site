@@ -9,9 +9,10 @@ const Education = () => {
       </div>
       <div className='home__education-text'>
         <div className='homeedu__subtitle'></div>
-        <div className='homeedu__title'>Make online seducation</div>
-        <div className='homeedu__desc'>Problems trying to resolve the conflict between the two major realms of Newtonian mechanics.</div>
-        <span>Learn More &gt;</span>
+        <div className='homeedu__title'>BƯỚC ĐỆM CHO HÀNH TRÌNH
+CHINH PHỤC NẤC THANG CAMBRIDGE</div>
+        <div className='homeedu__desc'>Trẻ tiếp thu tiếng Anh một cách tự nhiên, phát âm chuẩn, phản xạ nhanh và dễ dàng hình thành đam mê học tiếng Anh ngay từ tuổi mẫu giáo để sẵn sàng chinh phục chứng chỉ Cambridge trong giai đoạn tiếp theo</div>
+
       </div>
     </div>
   )

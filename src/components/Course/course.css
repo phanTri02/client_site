@@ -94,6 +94,7 @@
     margin: 0 1em;
     border-radius: 15px;
     width: 15rem;
+    height: 15rem;
     align-items: center;
     box-shadow: 5px 5px  rgb(177, 177, 255);
     transition: ease-in-out 0.5s;
@@ -140,7 +141,7 @@
 }
 
 .app__selected-text {
-    width: 60vw;
+    width: 100%;
     margin-top: 1em;
 }
 
@@ -291,16 +292,21 @@
     flex: 1;
     flex-direction: column;
     text-align: start;
-    padding: 1em 0 0 1em;
+    padding: 1em 1em 1em 1em;
 }
 
 .course__card-title {
     font-size: 19px;
     font-weight: 700;
+    color: #FF3339;
 }
 
 .course__card-info {
     font-size: 15px;
+    font-style: italic;
+}
+.course__card-info span{
+    font-weight: 600;
 }
 
 .app__testimonials {
@@ -326,6 +332,7 @@
     flex-direction: column;
     text-align: start;
     padding: 1em 2em;
+    border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(134, 134, 134);
 }
 
@@ -347,6 +354,7 @@
 .customer__name {
     font-size: 15px;
     font-weight: 700;
+    color: #FE753F;
 }
 
 .customer__role {
@@ -360,4 +368,5 @@
 
 .customer__comment {
     margin-top: 1em;
+    font-style: italic;
 }

@@ -9,11 +9,11 @@ const AvailableCourse = () => {
       <div className='app__available-courses'>
         <div className='course__card'>
           <div className='course__card-img'>
-            <img src={image.course} alt="" />
+            <img src={image.childCourse} alt="" />
           </div>
           <div className='course__card-content'>
             <div className='course__card-title'>Anh ngữ mẫu giáo</div>
-            <div className='course__card-info'>120 buổi - 1 Giáo viên - 1 Trợ giảng</div>
+            <div className='course__card-info'> Dành cho bé từ 4-6 tuổi, khơi mở niềm say mê học tập. </div>
           </div>
         </div>
         <div className='course__card'>
@@ -22,25 +22,25 @@ const AvailableCourse = () => {
           </div>
           <div className='course__card-content'>
             <div className='course__card-title'>Anh ngữ thiếu nhi</div>
-            <div className='course__card-info'>120 buổi - 1 Giáo viên - 1 Trợ giảng</div>
+            <div className='course__card-info'>Dành cho bé 6-11 tuổi, khơi mở những giá trị toàn cầu của Thế kỷ 21.</div>
           </div>
         </div>
         <div className='course__card'>
           <div className='course__card-img'>
-            <img src={image.course} alt="" />
+            <img src={image.course2} alt="" />
           </div>
           <div className='course__card-content'>
             <div className='course__card-title'>Anh ngữ thiếu niên</div>
-            <div className='course__card-info'>120 buổi - 1 Giáo viên - 1 Trợ giảng</div>
+            <div className='course__card-info'>Dành cho học viên 11-15 tuổi, khơi mở sự tự tin & khát khao dẫn đầu.</div>
           </div>
         </div>
         <div className='course__card'>
           <div className='course__card-img'>
-            <img src={image.course} alt="" />
+            <img src={image.ielts} alt="" />
           </div>
           <div className='course__card-content'>
             <div className='course__card-title'>Luyện thi ielts</div>
-            <div className='course__card-info'>120 buổi - 1 Giáo viên - 1 Trợ giảng</div>
+            <div className='course__card-info'>Cho học viên từ 15 tuổi trở lên, khơi mở những cơ hội. </div>
           </div>
         </div>
         

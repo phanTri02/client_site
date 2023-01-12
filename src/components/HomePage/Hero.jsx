@@ -6,11 +6,11 @@ const Hero = () => {
   return (
     <div className='home__banner'>
         <div className='home__banner-text'>
-            <div className='homebn__subtitle'>Online training</div>
+            <div className='homebn__subtitle'>Anh ngữ mẫu giáo</div>
             <div className='homebn__title'></div>
-            <div className='homebn__desc'>Lựa chọn các khóa học theo năng lực</div>
+            <div className='homebn__desc'>Khóa học dành cho trẻ em từ 4 - 6 tuổi</div>
             <div>
-                <button className='homebn__getquotebtn'>Get Quote Now</button>
+                <button className='homebn__getquotebtn'>Liên hệ ngay</button>
             </div>
         </div>
         <div className='home__banner-img'>
